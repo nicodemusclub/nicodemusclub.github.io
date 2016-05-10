@@ -114,7 +114,8 @@ a {
   font-weight: normal;
   color: #159957; }
 .main-content p {
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+  font-size: 15px;  }
 .main-content code {
   padding: 2px 4px;
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -230,6 +231,7 @@ a {
   font-weight: bold; }
 
 .site-footer-credits {
+	font-size:0.7rem;
   color: #819198; }
 
 @media screen and (min-width: 64em) {
